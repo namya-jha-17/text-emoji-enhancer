@@ -1,7 +1,8 @@
 name: text_emoji_enhancer
 description: "A simple Dart package to replace keywords with emojis."
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: "https://github.com/namya-jha-17/text-emoji-enhancer.git"
+repository: "https://github.com/namya-jha-17/text-emoji-enhancer.git"
 
 environment:
   sdk: ^3.7.0
